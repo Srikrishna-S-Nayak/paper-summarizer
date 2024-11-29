@@ -31,3 +31,4 @@ ENV/
 
 # Project specific
 examples/*.pdf
+examples/*.md
